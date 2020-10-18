@@ -1,4 +1,4 @@
-#include <eosio.token/eosio.token.hpp>
+#include <finteh.token/finteh.token.hpp>
 
 namespace eosio {
 
